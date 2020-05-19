@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Michelle (Mai Phuong) Pham"
-  avatar           : "/others/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MIT Alumna"
   location         : "Cambridge, MA"
   email            : "phuongpm@alum.mit.edu"

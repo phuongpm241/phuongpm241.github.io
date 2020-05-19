@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme                    : minimal-mistakes-jekyll
+remote_theme             : "mmistakes/minimal-mistakes@4.19.2"
 locale                   : "en"
 title                    : "Michelle Pham"
 title_separator          : "-"
@@ -185,6 +185,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:

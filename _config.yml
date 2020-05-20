@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-remote_theme             : "mmistakes/minimal-mistakes@4.19.2"
+# remote_theme             : "mmistakes/minimal-mistakes@4.19.2"
 locale                   : "en"
 title                    : "Michelle Pham"
 title_separator          : "-"

@@ -15,5 +15,7 @@ main:
   #  url: /tags/
   - title: "Projects"
     url: /Projects/
+  - title: "Lists"
+    url: /Lists/
   - title: "Gallery"
     url: /gallery/

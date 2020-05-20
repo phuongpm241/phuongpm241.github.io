@@ -2,8 +2,8 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url:  /About/
+  # - title: "About"
+  #   url:  /About/
   - title: "Blogs"
     url: /Blogs/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -13,5 +13,7 @@ main:
   #   url: /collection-archive/
   #- title: "Tags"
   #  url: /tags/
+  - title: "Projects"
+    url: /Projects/
   - title: "Gallery"
     url: /gallery/

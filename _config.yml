@@ -21,7 +21,7 @@ words_per_minute         : 200
 comments:
   provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : #"zengliX" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Michelle (Mai Phuong) Pham"
   avatar           : "/assets/images/Phuong_PHAM.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MIT Alumna"
+  bio              : "A tiny scholar"
   location         : "Cambridge, MA"
   email            : "phuongpm@alum.mit.edu"
   uri              :
@@ -183,17 +183,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
-  - jemoji
   - jekyll-include-cache
+  - jekyll-picture-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
-  - jemoji
 
 
 # Archives

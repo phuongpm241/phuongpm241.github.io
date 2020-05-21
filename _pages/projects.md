@@ -8,11 +8,23 @@ permalink: /Projects/
 feature_row1:
   - image_path: pics/projects/candy.png
     title: "US Candy Production"
-    text: "In this project, I seek to apply common time series methods to predict US candy production from 1971 to 2017."
+    text: "In this project, I seek to apply common time series forecasting methods to predict US candy production from 1971 to 2017."
     url: "https://www.kaggle.com/phuongpm/sweet-time-series"
     btn_label: "Code"
     btn_class: "btn--primary"
     tags: 
+        - time-series
+feature_row2:
+  - image_path: pics/projects/diabete.png
+    title: "Type II Diabetes Onset and Progression Analysis"
+    text: "This is the report for our final project in HST.956 Machine Learning for Healthcare. This report is an extension of the type II diabetes study done by Razavian et. al.,
+	and details the steps taken to analyze the cohort, construct a disease onset survival model,
+	and model disease progression."
+    url: "https://drive.google.com/file/d/1I-xPM878DJl6gWPnx9_hZUPQBaBWHkcd/view"
+    btn_label: "Report"
+    btn_class: "btn--primary"
+    tags: 
+        - survival-analysis
         - time-series
 ---
 
@@ -22,6 +34,6 @@ feature_row1:
 
 # Selected Projects
 {% include feature_row id="feature_row1" type="left" %}
-
+{% include feature_row id="feature_row2" type="left" %}
 
 

@@ -32,7 +32,7 @@ I like to share what I have been reading/watching/listening to keep me motivated
 6. Pour Your Heart Into It: How Starbucks Built a Company One Cup at a Time, Howard Schultz*
 
 # Watching list
-I probably have watched more shows and movies than I could recall. I have always biased toward older movies, partly due to its originality and vintage-color pictures. Here are the top 20 classic movies (which I don't mind watching again):
+I have probably watched more shows and movies than I could recall. I have always biased toward older movies, partly due to its originality and vintage-color pictures. Here are the top 20 classic movies (which I don't mind watching again):
 1. Love Actually (2003)
 2. Picture Perfect (1997)
 3. La La Land (2016)

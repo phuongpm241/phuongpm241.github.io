@@ -27,35 +27,34 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 0 0 1.3rem;
-  line-height: 1.4;
+  margin: 2em 0 0.5em;
+  line-height: 1.2;
   font-family: $header-font-family;
-  font-weight: bold;
 }
 
 h1 {
   margin-top: 0;
-  font-size: $type-size-3;
+  font-size: $h-size-1;
 }
 
 h2 {
-  font-size: $type-size-4;
+  font-size: $h-size-2;
 }
 
 h3 {
-  font-size: $type-size-5;
+  font-size: $h-size-3;
 }
 
 h4 {
-  font-size: $type-size-6;
+  font-size: $h-size-4;
 }
 
 h5 {
-  font-size: $type-size-6;
+  font-size: $h-size-5;
 }
 
 h6 {
-  font-size: $type-size-6;
+  font-size: $h-size-6;
 }
 
 small,
@@ -64,7 +63,7 @@ small,
 }
 
 p {
-  margin-bottom: 1.2em;
+  margin-bottom: 1.3em;
 }
 
 u,
@@ -153,8 +152,7 @@ code,
 kbd,
 samp,
 pre {
-  font-family: $monospace, $serif;
-  font-size: 0.95em;
+  font-family: $monospace;
 }
 
 pre {
@@ -168,7 +166,7 @@ figcaption > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
-  font-size: 0.9em;
+  font-size: 0.8em;
   background: $code-background-color;
   border-radius: $border-radius;
 
@@ -185,24 +183,21 @@ hr {
   display: block;
   margin: 1em 0;
   border: 0;
-  border-top: 2px solid $border-color;
+  border-top: 1px solid $border-color;
 }
 
 /* lists */
 
 ul li,
 ol li {
-  margin-bottom: 0.6em;
+  margin-bottom: 0.5em;
 }
 
 li ul,
 li ol {
-  margin-top: 0.6em;
+  margin-top: 0.5em;
 }
 
-ul li {
-  list-style-type: circle;
-}
 /*
    Media and embeds
    ========================================================================== */

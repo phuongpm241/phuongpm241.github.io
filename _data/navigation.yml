@@ -17,5 +17,5 @@ main:
     url: /Projects/
   - title: "Lists"
     url: /Lists/
-  - title: "Gallery"
-    url: /gallery/
+  # - title: "Gallery"
+  #   url: /gallery/

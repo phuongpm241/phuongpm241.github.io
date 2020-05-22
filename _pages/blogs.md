@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-<font size="2" font-style="italic">Learning to be an effective writer is one of my long-term personal goals. This blog documents my writing journey. I hope it is useful to you, too. Please leave a comment if you want to have a discussion about the contents :) </font>
+<font size="2"><i>Learning to be an effective writer is one of my long-term personal goals. This blog documents my writing journey. I hope it is useful to you, too. Please leave a comment if you want to have a discussion about the contents :) </i></font>
 
 <ul>
   {% for post in site.posts %}

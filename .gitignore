@@ -12,3 +12,4 @@ example/_site
 Gemfile.lock
 node_modules
 npm-debug.log*
+_posts/2020-05-19-welcome-to-jekyll.markdown

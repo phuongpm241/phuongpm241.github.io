@@ -14,7 +14,7 @@ header:
   <figcaption>Flying Through the Storm by Doodles N' Dabbles</figcaption>
 </figure>
 
-A distant relative whom I knew since I was a kid passed away two days ago. I got the news through my mum's laconic text: "We are going to attent Auntie X's funeral."
+A distant relative whom I knew since I was a kid passed away two days ago. I got the news through my mum's laconic text: "We are going to attend Auntie X's funeral."
 
 Auntie X lived with us for a few years to take care of my brother and me while my parents were busy with their new ventures. In my memory, she was this firm, tanned, cooper-skin, 5.5 feet tall woman who was just a few years older than my parents. She led a tranquil and sustainable life in the countryside before living with us. She was simple and credulous. All things considered, she was happy and healthy. 
 

@@ -4,6 +4,8 @@ title:  "A Temporary State of Life"
 date:   2020-05-23 16:45:00 -0400
 categories: personal
 tags: [immigrant-life, graduating]
+header: 
+  teaser: "/pics/blogs/storm.png"
 ---
 <i> Forefront: From the decease of a relative to immigration uncertainties, this personal essay was my thought process after a sleepless night following the decease of a relative and uncertain news about immigration restrictrions. Writing has been therapeutic for me since lockdown. I having been keeping a handwritten notebook and just recently published this blog. I could never imagine my first blog post to be full of uncertainties and bad news. However, there are good insights that I want to share with recent international student graduates. I want to acknowledge many friends who have been trying to keep me sane and talking to me. It has been a tough ride.</i>
 

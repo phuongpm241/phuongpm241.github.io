@@ -37,7 +37,7 @@ In the end of my thesis acknowledgement, I wrote:
 
 Indeed, there are many uncertainties in the short term. Under these circumstances, it is unproductive to react to the unknowns. I have found it much more useful to focus on the long-term goals and values while planning for different scenarios. Therefore, I have decided to stick to my plan as much as I could while patiently waiting for my "diagnosis." This plan includes:
 
-* enjoying every single seconds with my boyfriend and friends
+* enjoying every single second with my boyfriend and friends
 * graduating from MIT
 * taking the GRE
 * applying to deferred MBA programs

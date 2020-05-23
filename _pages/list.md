@@ -6,7 +6,7 @@ date: May 19, 2020
 permalink: /Lists/
 ---
 
-I like to share what I have been reading/watching/listening to keep me motivated. I also have a [Goodreads account](https://www.goodreads.com/user/show/35673810-phuong), which I have not been updating. Publications that I especially loved are marked with an asterisk. My all-time favorite is marked with double asterisk. 
+I like to share what I have been reading/watching/listening to keep me motivated. I also have a [Goodreads account](https://www.goodreads.com/user/show/35673810-phuong), which I have not been updating. Publications that I especially loved are marked with an asterisk. My all-time favorites are marked with double asterisk. 
 
 {% include toc title="Contents" %}
 

@@ -52,5 +52,5 @@ I have probably watched more shows and movies than I could recall. I have always
 17. Emma (1996)
 18. Normal people (2020)
 19. The Good Place (2016)
-20. The Devil Wears Prada (2006)
+20. Sorry To Bother You (2018)
 

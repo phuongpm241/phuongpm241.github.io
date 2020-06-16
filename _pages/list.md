@@ -15,6 +15,7 @@ I like to share what I have been reading/watching/listening to keep me motivated
 1. The 5 Choices: Achieving Extraordinary Productivity Without Getting Buried Alive, Kory Kogon, Adam Merrill, Leigh Stevens
 2. Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones, James Clear
 3. Talking to Strangers: What We Should Know about the People We Don't Know, Malcolm Gladwell*
+4. The McKinsey Way, Ethan M. Rasiel
 
 <font size = "h-size-2">2019 </font>
 1. Will You Be There?, Guillaume Musso

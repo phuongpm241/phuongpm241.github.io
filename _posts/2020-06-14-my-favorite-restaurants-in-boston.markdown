@@ -13,7 +13,7 @@ It has been three months since the last time I dined in a restaurant. Massachuse
 
 <b>0. Cafe Luna </b>
 
-Because I am a CS major, it is natural for me to start counting from 0. (And this happens to be the only brunch place in this list? Is that intentional?) To be honest, I am not quite impressed with Boston brunch scene, probably due to summers in SF. However, Cafe Luna has the most beautiful (and tastiest) brunch in town. A picture is worth a thousand words, so here it is!
+Because I am a CS major, it is natural for me to start counting from 0. (And this happens to be the only brunch place in this list? Is that intentional?) To be honest, I am not quite impressed with Boston brunch scene, probably my standard was raised by summer brunches in SF. However, Cafe Luna has the most beautiful (and tastiest) brunch in town. A picture is worth a thousand words, so here it is!
 
 <center>
 	<img src="/pics/blogs/cafeluna.jpg" width="400">
@@ -28,7 +28,7 @@ This is my go-to restaurant in BRW. They always have full-size dishes on that BR
 
 <b>2. Spring Shabu-Shabu </b>
 
-This hot pot place is the most ... hygiene hot pot place in town!! I always have a bit of a stigma against having hot pot with many people, but this place solved my problem. You have your own pot and buffet-style veggies and toppings. The price for meat is a bit steep, which is a little bit of a bummer. However, I would be very happy to spend hours there with friends and eat lots of veggies. Oh, the matcha ice cream is a must-have for dessert!
+This hot pot place is the most ... hygiene hot pot place in town!! I always have a bit of a hesistance against having hot pot with many people, but this place solved my problem. You have your own pot and buffet-style veggies and toppings. The price for meat is a bit steep, which is a little bit of a bummer. However, I would be very happy to spend hours there with friends and eat lots of veggies. Oh, the matcha ice cream is a must-have for dessert!
 <center>
 <img src="/pics/blogs/springshabu.jpg" width="400">
 </center>
@@ -37,7 +37,7 @@ This hot pot place is the most ... hygiene hot pot place in town!! I always have
 
 <b>3. Hong Kong Eatery </b>
 
-Next is our comfort food. Hong Kong Eatery has the cheapest and most tasty Chinese BBQ of all kinds. If we don't really know what to have for lunch or dinner, we will always go with a rice plate of three kinds of meat for less than 10$!!
+Next is our comfort food. Hong Kong Eatery has the cheapest and most juicy Chinese BBQ of all kinds. If we don't really know what to have for lunch or dinner, we will always go with a rice plate of three kinds of meat for less than 10$!!
 <center>
 <img src="/pics/blogs/hkeatery.jpg" width="400">
 </center>
@@ -53,14 +53,14 @@ I have probably spent wayyy too much money in this ramen place. A couple of year
 <br>
 <b>5. Atlantic Fish Co. </b>
 
-My obsession with beer battered cod fish started here! Even though I might have had enough of beer battered cod fish FROZEN, I am still craving for that rich, smooth clam chowder. Oh boyyy...
+My obsession with beer battered cod fish started here. Even though I might have had enough of beer battered cod fish FROZEN, I am still craving for that rich, smooth clam chowder. Oh boyyy...
 <center>
 <img src="/pics/blogs/atlantic_1.jpg" width="300"> <img src="/pics/blogs/atlantic_2.jpg" width="300">
 </center>
 
 <br>
 <b>6. Penang Malaysian Cuisine </b>
-This is probably Johnny's obsession rather than mine. This restaurant is a rare find of Malaysian cuisine in the heart of Chinatown. And they definitely have the best steamed chicken!!
+This is probably Johnny's obsession rather than mine. This restaurant is a rare find of Malaysian cuisine in the heart of Chinatown. And they definitely have the best steamed chic-kin!!
 <center>
 <img src="/pics/blogs/penang.jpg" width="400">
 </center>
@@ -77,7 +77,7 @@ This is probably Johnny's obsession rather than mine. This restaurant is a rare 
 <br> 
 <b>8. C Fruit Life </b>
 
-<p> To conclude this post, of course I need to talk about dessert. I love their ice shave soooo muchhh!! It is such a bummer that I cannot have some ice in the summer &#128555;</p>
+<p> To conclude this post, of course I need to talk about dessert. I love their ice shaves soooo muchhh!! It is such a bummer that I cannot have some ice in the summer &#128555;</p>
 <center>
 <img src="/pics/blogs/clife.jpg" width="400">
 </center>
@@ -85,13 +85,13 @@ This is probably Johnny's obsession rather than mine. This restaurant is a rare 
 <br>
 <b>9. Clear Flour Bakery </b>
 
-<p> This is how my boyfriend got me &#128541;</p>
+<p> This is how my boyfriend got me &#128541; TLDR: Johnny brought a box of baked goodies to our "second date" in a library and started feeding me. Welp, I fell for it.</p>
 <center>
 <img src="/pics/blogs/clearflour.jpg" width="400">
 </center>
 
 <br>
-Anddddd these are 10 of my favorite restaurants in Boston area. There are many more of them for which I couldn't find good photos/ space in this post. I have been experiencing loss of appetite for the past few weeks, but writing about my favorite places to eat gets me craving for good food again. How about you? What are your favorite restaurants?
+Anddddd these are 10 of my favorite restaurants in the Boston area. There are many more of them for which I couldn't find good photos/ space in this post. I have been experiencing loss of appetite for the past few weeks, but writing about my favorite places to eat gets me craving for good food again. How about you? What are your favorite restaurants?
 
 
 

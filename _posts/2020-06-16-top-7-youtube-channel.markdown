@@ -6,7 +6,7 @@ categories: personal
 tags: [entertainment]
 ---
 
-<p>I have recently had a relatively long break (5-6 weeks) for the first time in five years. And I actually like it &#128519; &#128514; My past couple of weeks has been on rewatching Friends, learning Korean, and of course, binging on Youtube. Well, I have a love-hate relationship with Youtube in particular. I used to subscribe to a wide variety of channels, which overwhelmed my newsfeed (and headspace). This pandemic has taught me that minimalism applies to headspace as well. Anyway, I spent a few nights unsubscribe and clean my feeds, and here are the lists of smaller channels (less than 3M subscribers) that I absolutely love (besides those that everyone loves like Tasty, ChilledCow, and Yoga with Adriene). (Why the number 7? I don't know. It popped up in my head - probably the biggest prime number smaller than 10?) </p>
+<p>I have recently had a relatively long break (5-6 weeks) for the first time in five years. And I actually like it &#128519; &#128514; My past couple of weeks has been on rewatching Friends, learning Korean, and of course, binging on Youtube. Well, I have a love-hate relationship with Youtube in particular. I used to subscribe to a wide variety of channels, which overwhelmed my newsfeed (and headspace). This pandemic has taught me that minimalism applies to headspace as well. Anyway, I spent a few nights unsubscribing and cleaning my feeds, and here are the lists of smaller channels (less than 3M subscribers) that I absolutely love (besides those that everyone loves like Tasty, ChilledCow, and Yoga with Adriene). (Why the number 7? I don't know. It popped up in my head - probably the biggest prime number smaller than 10?) </p>
 
 <b> 1. Tom Scott </b>
 

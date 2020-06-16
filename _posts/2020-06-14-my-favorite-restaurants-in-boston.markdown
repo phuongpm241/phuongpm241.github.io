@@ -4,6 +4,8 @@ title:  "My Favorite Boston Restaurants"
 date:   2020-06-14 21:00:00 -0400
 categories: personal
 tags: [food, travel]
+header: 
+  teaser: "/pics/blogs/cafeluna.jpg"
 ---
 It has been three months since the last time I dined in a restaurant. Massachusetts stay-at-home order happened to be in the middle of the second Boston Restaurant Week (BRW), when we still had a couple of reservations left. My boyfriend and I were so excited to try out several restaurants, which might seem impossible in the near future. I never thought it [the lockdown] could take such a long time and I still don't know when I would feel comfortable eating in a restaurant again. We had order food a couple of times, but it can be quite different from the dining experience. We took for granted these happy moments when we could just go out and have a nice meal on the weekend.
 

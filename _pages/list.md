@@ -18,7 +18,9 @@ I like to share what I have been reading/watching/listening to keep me motivated
 4. The McKinsey Way, Ethan M. Rasiel
 5. Tomorrow (original title: Demain), Guillaume Musso
 6. Freakonomics, Stephen J. Dubner and Steven Levitt*
-7. Quiet, Susan Cain 
+7. Powerful: Building a Culture of Freedom and Responsibility, Patty McCord
+8. Quiet, Susan Cain
+9. Algorithms to Live By, Brian Christian and Tom Griffiths* 
 
 <font size = "h-size-2">2019 </font>
 1. Will You Be There?, Guillaume Musso
@@ -66,5 +68,7 @@ I have probably watched more shows and movies than I could recall. I have always
 27. Community (2009)
 28. The Firm (1993)
 29. A Star Is Born (2018)
-30. Hamilton (2020) 
+30. Hamilton (2020)
+31. Cheers (1982)
+32. Succession (2018) 
 

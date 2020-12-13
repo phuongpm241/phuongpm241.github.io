@@ -20,7 +20,8 @@ I like to share what I have been reading/watching/listening to keep me motivated
 6. Freakonomics, Stephen J. Dubner and Steven Levitt*
 7. Powerful: Building a Culture of Freedom and Responsibility, Patty McCord
 8. Quiet, Susan Cain
-9. Algorithms to Live By, Brian Christian and Tom Griffiths* 
+9. The Choice: Embrace the Possible, Edith Eger
+10. Calm the f\*ck down, Sarah Knight & Sasha O'Hara
 
 <font size = "h-size-2">2019 </font>
 1. Will You Be There?, Guillaume Musso

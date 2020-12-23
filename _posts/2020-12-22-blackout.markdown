@@ -4,6 +4,8 @@ title:  "Blackout"
 date:   2020-12-22 22:00:00 -0400
 categories: personal
 tags: [emotion]
+header: 
+  teaser: "/pics/blogs/20201222_mindmap.jpg"
 ---
 
 <i>This blog post was a summary of a conversation I had with a close friend, whose experiences might resonate with many in our age. This is not my personal experiences.</i>
@@ -23,7 +25,7 @@ As frustration builds up, so does my overwork habit. In the first few days of th
 Yesterday, as I was finishing up a bottle of wine, an idea came to mind. In a book about eating disorder I am currently reading, the author mentioned that an eating disorder is typically the sign of a more troublesome emotional problem. Like an onion, my problem, or problems, have many layers. Because I hid it too deep inside my own rabbit hole, it took a lot of self-attention to emerge. I started out with one word that most accurately describes my emotion, then branched out to so many problems I have avoided: my difficult work situation, my self-shaming body image, my personal relationships (or the lack of it), and my lost creativity. 
 
 <figure>
-  <img src="/pics/blogs/20201222_mindmap.png" alt="storm">
+  <img src="/pics/blogs/20201222_mindmap.jpg" alt="mindmap">
   <figcaption>I laid out a framework to trace down my problems, which have many layers. In red are tactical solutions. In green are general synthesis.</figcaption>
 </figure>
 

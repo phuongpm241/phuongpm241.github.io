@@ -5,7 +5,7 @@ date:   2020-12-22 22:00:00 -0400
 categories: personal
 tags: [emotion]
 header: 
-  teaser: "/pics/blogs/20201222_mindmap.jpg"
+  teaser: "/pics/blogs/Candles-for-self-care.jpg"
 ---
 
 <i>This blog post was a summary of a conversation I had with a close friend, whose experiences might resonate with many in our age. This is not my personal experiences.</i>

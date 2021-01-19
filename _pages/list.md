@@ -22,6 +22,8 @@ I like to share what I have been reading/watching/listening to keep me motivated
 8. Quiet, Susan Cain
 9. The Choice: Embrace the Possible, Edith Eger
 10. Calm the f\*ck down, Sarah Knight & Sasha O'Hara
+11. Eat What You Love, Love What You Eat, Michelle May*
+12. 100 Questions Every First-Time Home Buyer Should Ask, Ilyce R Glink 
 
 <font size = "h-size-2">2019 </font>
 1. Will You Be There?, Guillaume Musso

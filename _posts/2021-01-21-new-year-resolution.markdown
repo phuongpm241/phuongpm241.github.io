@@ -44,7 +44,7 @@ Similar to the book-reading challenge, this goal is quantifiable and hard-end. B
 
 Since I get tired (and bored) easily, 30-minute/day is the total time spent on any of these activities. Not bad, right?
 
-# Get at least 150XP of Korean lessons on Duolingo
+# Get at least 150XP of Korean lessons on Duolingo a week
 
 I need to really double down on learning Korean. Last year I have seen my $60 subscription went to waste because I gave up on my lessons during the last two months. My goal was simply too hard. I was forcing myself to get at least 20XP per day. To be honest, my previous project was a living hell. There are days that I cannot breathe or go to sleep because of stress, let alone studying a new language! Fed up with my progress, I let it slip - didn't even bother making up for my missing lessons on the weekends. 
 
@@ -56,7 +56,7 @@ I have always had a love-hate relationship with food. There would be months that
 
 <center>
 <figure>
-  <img src="/pics/blogs/eatinghealthy.jpg" alt="eatinghealthy" width="400">
+  <img src="/pics/blogs/eatinghealthy.JPG" alt="eatinghealthy" width="400">
   <figcaption>Eating healthy doesn't mean to eliminate sugar and fat completely. It means to listen to your body and consume those in moderation. No food is bad. Source: https://www.hsph.harvard.edu/nutritionsource/healthy-eating-pyramid/ </figcaption>
 </figure>
 </center>

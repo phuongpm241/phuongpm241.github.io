@@ -3,7 +3,7 @@ layout: single
 title:  "A Temporary State of Life"
 date:   2020-05-23 16:45:00 -0400
 categories: personal
-tags: [immigrant-life, graduating]
+tags: [immigrant-life, adulting]
 header: 
   teaser: "/pics/blogs/storm.png"
 ---

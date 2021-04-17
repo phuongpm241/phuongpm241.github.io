@@ -11,6 +11,10 @@ I like to share what I have been reading/watching/listening to keep me motivated
 {% include toc title="Contents" %}
 
 # Reading list
+<font size = "h-size-2">2021 </font>
+1. Misbehaving: The Making of Behavioral Economics, Richard Thaler
+2. The innovator's dilemma, Clayton Christensen
+
 <font size = "h-size-2">2020 </font>
 1. The 5 Choices: Achieving Extraordinary Productivity Without Getting Buried Alive, Kory Kogon, Adam Merrill, Leigh Stevens
 2. Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones, James Clear
